@@ -1,0 +1,40 @@
+{
+	"menu": [
+		{
+			"image": "04.png",
+			"name": "Delmonico Steak dish",
+			"cost": "14$",
+			"rating": "2"
+		},
+		{
+			"image": "05.png",
+			"name": "Egg Masala",
+			"cost": "9$",
+			"rating": "4.5"
+		},
+		{
+			"image": "06.png",
+			"name": "Peach Melba dish",
+			"cost": "15$",
+			"rating": "3.2"
+		},
+		{
+			"image": "01.png",
+			"name": "Mamma mia",
+			"cost": "123$",
+			"rating": "1.9"
+		},
+		{
+			"image": "03.png",
+			"name": "No Buritto",
+			"cost": "99$",
+			"rating": "5"
+		},
+		{
+			"image": "02.png",
+			"name": "Your dream",
+			"cost": "0$",
+			"rating": "0"
+		}
+	]
+}
